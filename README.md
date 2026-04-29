@@ -1,107 +1,132 @@
-👩‍💻 Sanjana Suriyanarayanan
+# 👩‍💻 Sanjana Suriyanarayanan  
 
-Full-Stack Developer | AI Enthusiast | UI/UX Designer
+<p align="center">
+  <b>Full-Stack Developer | AI Enthusiast | UI/UX Designer</b><br>
+  B.Tech IT @ SSN College of Engineering
+</p>
 
-🌟 Who I Am
+---
 
-I’m an Information Technology undergraduate at SSN College of Engineering (India) with a strong passion for building intelligent, user-centric digital systems that solve real-world problems.
+## 🌟 About Me
 
-I specialize in combining:
+Motivated Information Technology student with experience in building **end-to-end applications**, designing **intuitive UI/UX**, and developing **AI/ML-driven systems**.
 
-⚡ Real-time web technologies
-🤖 AI/ML-driven decision systems
-🎨 Intuitive UI/UX design
+- 🚀 Passionate about real-world problem solving  
+- ⚡ Strong in fast-paced, team-driven environments  
+- 🌍 Focused on scalable and user-centric solutions  
+- 🧠 Quick learner with strong adaptability  
 
-From social platforms to assistive AI tools, I focus on creating systems that are not just functional—but meaningful and scalable.
+---
 
-🚀 What Makes Me Different
-🧠 I build end-to-end systems — from backend logic to polished UI
-🌍 I design with global users in mind
-🔬 I work on impact-driven projects (health, accessibility, sustainability)
-⚡ I learn and adapt fast in high-pressure environments (perfect for hackathons)
-🛠 Tech Stack
-💻 Languages
+## 🛠 Tech Stack
 
-Python | Java | C | SQL | JavaScript | HTML | CSS
+### 💻 Languages
+`Python` `Java` `C` `SQL` `JavaScript` `HTML` `CSS`
 
-⚙️ Frameworks & Tools
+### ⚙️ Frameworks & Tools
+`Django` `Flask` `FastAPI` `React` `Bootstrap` `Flutter`
 
-Django | Flask | FastAPI | React | Bootstrap | Flutter
+### 🤖 AI / ML
+`TensorFlow` `Scikit-learn` `OpenCV` `Pandas` `NumPy`
 
-🤖 AI/ML
+### 🎨 Design
+`Figma` `Canva` `UI/UX Design`
 
-TensorFlow | Scikit-learn | OpenCV | Pandas | NumPy
+### 🔧 Others
+`Git` `Linux` `REST APIs` `Firebase` `Supabase`
 
-🎨 Design
+---
 
-Figma | Canva | UI/UX Prototyping
+## 📌 Featured Projects
 
-🔧 Others
+### 🌐 Tints & Trends — Social Media Platform
+- Built a full-stack social media application with real-time interactions  
+- Implemented AJAX-based dynamic updates  
+- Designed scalable backend and responsive UI  
 
-Git | Linux | REST APIs | Firebase | Supabase
+---
 
-📌 Featured Projects
-🌐 Tints & Trends — Social Media Platform
-8
+### 🍽️ Personalized Food Inspector (AI + IoT)
+- Developed a smart food analysis system integrating AI and sensors  
+- Detects contaminants and provides dietary recommendations  
+- Uses real-time user health data for personalization  
 
-A full-stack social platform designed for creators and designers.
+---
 
-✨ Highlights:
+### 🤟 SignVerse — Sign Language System
+- Converts speech/video into sign language  
+- Uses NLP for gloss generation  
+- Integrated 3D avatar rendering using Three.js  
 
-Real-time interactions using AJAX
-Smart feed generation
-User authentication & dynamic UI
-Scalable backend architecture
-🍽️ Personalized Food Inspector (AI + IoT)
-An intelligent food analysis system combining hardware + AI + web platform.
+---
 
-✨ Highlights:
+### 🌱 Plant Twin — AI Plant Assistant
+- Image-based plant recognition system  
+- Detects plant diseases using ML models  
+- Provides personalized plant care suggestions  
 
-Detects contaminants & allergens
-Personalized dietary recommendations
-Integrates user health data
-Real-world healthcare application
-🤟 SignVerse — Accessibility Innovation
-Breaking communication barriers using AI-powered sign language translation.
+---
 
-✨ Highlights:
+## 💼 Experience
 
-Speech → Text → Sign pipeline
-NLP-based gloss generation
-3D avatar rendering using Three.js
-Accessibility-focused design
-🌱 Plant Twin — AI Plant Assistant
-AI-powered plant care assistant for indoor plants.
+### 🌐 Web Development Intern — NITTTR Chennai
+- Redesigned and optimized website UI/UX  
+- Improved performance and accessibility  
+- Worked with PHP, Bootstrap, JavaScript  
 
-✨ Highlights:
+---
 
-Image-based plant recognition
-Disease prediction models
-Personalized care suggestions
-Mobile-first experience
+### 🏢 Purchase Intern — GRT Group
+- Managed inventory and purchase workflows  
+- Coordinated with vendors and departments  
+- Improved operational efficiency  
 
-💼 Experience
-🌐 Web Development Intern — NITTTR Chennai
-Redesigned and optimized institutional website
-Improved performance and accessibility
-Worked with PHP, Bootstrap, JavaScript
+---
 
-🏢 Purchase Intern — GRT Group
-Managed inventory & vendor workflows
-Improved operational efficiency
+## 📊 Core Strengths
 
-📊 My Strengths
-💡 Problem-solving mindset
-🤝 Strong team collaboration
-⚡ Fast learner under pressure
-🎯 Focus on real-world impact
+- 💡 Problem Solving  
+- 🤝 Team Collaboration  
+- ⚡ Fast Learning  
+- 🎯 Impact-Oriented Thinking  
 
-🌍 Leadership & Activities
-NSS Volunteer — Community Service
-Subhead — Design & Decor (AIT)
-Core Member — Entrepreneurship Cell
-Youth Volunteer — Talent Quest India
+---
 
-📫 Let’s Connect
-💼 LinkedIn: [Sanjana Suriyanarayanan](https://www.linkedin.com/in/sanjana-suriyanarayanan-989ab4287/)
-📧 Email: sanjana2310960@ssn.edu.in
+## 🌍 Leadership & Activities
+
+- NSS Volunteer  
+- Subhead — Design & Decor (AIT)  
+- Core Member — Entrepreneurship Cell  
+- Youth Volunteer — Talent Quest India  
+
+---
+
+## 📫 Connect With Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/sanjana-suriyanarayanan-989ab4287">LinkedIn</a> •
+  <a href="https://github.com/SanjanaS1709">GitHub</a> •
+  <a href="mailto:sanjana2310960@ssn.edu.in">Email</a>
+</p>
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SanjanaS1709&show_icons=true" />
+  <br>
+  <img src="https://streak-stats.demolab.com?user=SanjanaS1709" />
+</p>
+
+---
+
+## 🚧 Currently Working On
+
+- AI-powered food scanning system (hardware + software integration)  
+- Real-time social media analytics  
+- Accessibility tools using AI avatars  
+
+---
+
+⭐ *Open to collaboration, internships, and global hackathons*
