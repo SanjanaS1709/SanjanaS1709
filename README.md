@@ -1,132 +1,83 @@
-# 👩‍💻 Sanjana Suriyanarayanan  
+# Sanjana Suriyanarayanan
 
-<p align="center">
-  <b>Full-Stack Developer | AI Enthusiast | UI/UX Designer</b><br>
-  B.Tech IT @ SSN College of Engineering
-</p>
+**I build full-stack apps, ML systems, and AI tools that solve real problems.**  
+B.Tech IT @ SSN College of Engineering · Chennai, India
 
----
-
-## 🌟 About Me
-
-Motivated Information Technology student with experience in building **end-to-end applications**, designing **intuitive UI/UX**, and developing **AI/ML-driven systems**.
-
-- 🚀 Passionate about real-world problem solving  
-- ⚡ Strong in fast-paced, team-driven environments  
-- 🌍 Focused on scalable and user-centric solutions  
-- 🧠 Quick learner with strong adaptability  
+![Open to work](https://img.shields.io/badge/Status-Open%20to%20remote%20%26%20freelance-brightgreen?style=flat-square)
 
 ---
 
-## 🛠 Tech Stack
+## What I work with
 
-### 💻 Languages
-`Python` `Java` `C` `SQL` `JavaScript` `HTML` `CSS`
+**Languages**  
+`Python` `JavaScript` `Java` `C` `SQL` `HTML/CSS`
 
-### ⚙️ Frameworks & Tools
-`Django` `Flask` `FastAPI` `React` `Bootstrap` `Flutter`
+**Backend & Frameworks**  
+`Django` `Flask` `FastAPI` `React` `Bootstrap`
 
-### 🤖 AI / ML
+**AI / ML**  
 `TensorFlow` `Scikit-learn` `OpenCV` `Pandas` `NumPy`
 
-### 🎨 Design
-`Figma` `Canva` `UI/UX Design`
+**Tools & Infra**  
+`Git` `Linux` `Firebase` `Supabase` `REST APIs`
 
-### 🔧 Others
-`Git` `Linux` `REST APIs` `Firebase` `Supabase`
-
----
-
-## 📌 Featured Projects
-
-### 🌐 Tints & Trends — Social Media Platform
-- Built a full-stack social media application with real-time interactions  
-- Implemented AJAX-based dynamic updates  
-- Designed scalable backend and responsive UI  
+**Design**  
+`Figma` `UI/UX Design`
 
 ---
 
-### 🍽️ Personalized Food Inspector (AI + IoT)
-- Developed a smart food analysis system integrating AI and sensors  
-- Detects contaminants and provides dietary recommendations  
-- Uses real-time user health data for personalization  
-
----
+## Projects
 
 ### 🤟 SignVerse — Sign Language System
-- Converts speech/video into sign language  
-- Uses NLP for gloss generation  
-- Integrated 3D avatar rendering using Three.js  
+Converts speech and video into sign language in real time. Built an NLP pipeline for gloss generation and integrated a 3D avatar renderer using Three.js for visual output. The kind of project that actually matters.
+
+`Python` `NLP` `Three.js` `OpenCV`  
+→ [View repo](https://github.com/SanjanaS1709)
+
+---
+
+### 🍽️ Personalized Food Inspector — AI + IoT
+Smart food analysis system combining ML models with sensor data. Detects contaminants, reads nutritional content, and personalizes dietary recommendations based on the user's real-time health profile.
+
+`Python` `TensorFlow` `IoT` `FastAPI`  
+→ [View repo](https://github.com/SanjanaS1709)
 
 ---
 
 ### 🌱 Plant Twin — AI Plant Assistant
-- Image-based plant recognition system  
-- Detects plant diseases using ML models  
-- Provides personalized plant care suggestions  
+Upload a photo, get a diagnosis. Image-based plant recognition + disease detection using ML models, with personalized care advice. Built end-to-end from model training to a usable interface.
+
+`Python` `Scikit-learn` `OpenCV` `Flask`  
+→ [View repo](https://github.com/SanjanaS1709)
 
 ---
 
-## 💼 Experience
+### 🌐 Tints & Trends — Social Media Platform
+Full-stack social platform with real-time AJAX-powered interactions, a scalable Django backend, and a responsive UI. Built from scratch — auth, feeds, and all.
 
-### 🌐 Web Development Intern — NITTTR Chennai
-- Redesigned and optimized website UI/UX  
-- Improved performance and accessibility  
-- Worked with PHP, Bootstrap, JavaScript  
-
----
-
-### 🏢 Purchase Intern — GRT Group
-- Managed inventory and purchase workflows  
-- Coordinated with vendors and departments  
-- Improved operational efficiency  
+`Django` `JavaScript` `AJAX` `Bootstrap`  
+→ [View repo](https://github.com/SanjanaS1709)
 
 ---
 
-## 📊 Core Strengths
+## Currently building
 
-- 💡 Problem Solving  
-- 🤝 Team Collaboration  
-- ⚡ Fast Learning  
-- 🎯 Impact-Oriented Thinking  
+- 🔬 **AI food scanner (hardware + software)** — combining sensor input with a trained ML model for real-time food analysis on-device
+- ♿ **Accessibility tools using AI avatars** — extending SignVerse toward a broader real-time communication aid
 
 ---
 
-## 🌍 Leadership & Activities
+## Experience
 
-- NSS Volunteer  
-- Subhead — Design & Decor (AIT)  
-- Core Member — Entrepreneurship Cell  
-- Youth Volunteer — Talent Quest India  
+**Web Development Intern · NITTTR Chennai**  
+Redesigned and rebuilt the institute website — improved UI/UX, accessibility, and load performance. Worked with PHP, Bootstrap, and JavaScript in a production environment.
 
 ---
 
-## 📫 Connect With Me
+## Let's work together
 
-<p align="center">
-  <a href="https://linkedin.com/in/sanjana-suriyanarayanan-989ab4287">LinkedIn</a> •
-  <a href="https://github.com/SanjanaS1709">GitHub</a> •
-  <a href="mailto:sanjana2310960@ssn.edu.in">Email</a>
-</p>
+I'm actively looking for remote SWE / ML engineering roles and freelance projects. If you're building something interesting, I'd love to hear about it.
 
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SanjanaS1709&show_icons=true" />
-  <br>
-  <img src="https://streak-stats.demolab.com?user=SanjanaS1709" />
-</p>
-
----
-
-## 🚧 Currently Working On
-
-- AI-powered food scanning system (hardware + software integration)  
-- Real-time social media analytics  
-- Accessibility tools using AI avatars  
-
----
-
-⭐ *Open to collaboration, internships, and global hackathons*
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/sanjana-suriyanarayanan-989ab4287)
+[![GitHub](https://img.shields.io/badge/GitHub-SanjanaS1709-181717?style=flat-square&logo=github)](https://github.com/SanjanaS1709)
+[![Email](https://img.shields.io/badge/Email-sanjana2310960%40ssn.edu.in-EA4335?style=flat-square&logo=gmail)](mailto:sanjana2310960@ssn.edu.in)
